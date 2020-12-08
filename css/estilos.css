@@ -344,3 +344,10 @@ body::-webkit-scrollbar {
         color: rgb(224, 177, 75);
     }
 }
+
+
+
+iframe{
+  width:90%;
+  height: 500px;
+}
